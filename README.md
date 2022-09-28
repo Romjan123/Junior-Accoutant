@@ -1,3 +1,0 @@
-# Restaurant
-Waiter
-Food Server
